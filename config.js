@@ -1,6 +1,6 @@
 let fs = require('fs')
 let chalk = require('chalk')
-global.owner = ['62882003806038']
+global.owner = ['628566732166']
 global.autoread = false
 global.selfmode = false
 global.autobio = false // or node . --autobio
@@ -16,8 +16,8 @@ demote: '@user Sekarang bukan admin!'
 error : 'Terjadi Kesalahan',
 success: 'Sukses...'
 }
-global.prefix = '🐤'
-global.author = '@caliph91_'
+global.prefix = '.'
+global.author = '@fathur1_'
 global.packname = 'WhatsApp Bot'
 
 
